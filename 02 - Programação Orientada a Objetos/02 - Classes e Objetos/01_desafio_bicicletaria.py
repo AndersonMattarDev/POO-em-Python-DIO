@@ -4,7 +4,7 @@ class Bicicleta:
         self.modelo = modelo
         self.ano = ano
         self.valor = valor
-
+ 
     def buzinar(self):
         print("Plim plim...")
 
